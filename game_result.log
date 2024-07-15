@@ -1,0 +1,5 @@
+2024-07-15 08:56:28,481 [main] INFO  org.example.Main - Round 1: Computer wins. Player: rock, Computer: Paper. Score - Player: 0, Computer: 1
+2024-07-15 08:56:30,074 [main] INFO  org.example.Main - Round 2: TIE. Player: rock, Computer: Rock. Score - Player: 0, Computer: 1
+2024-07-15 08:56:32,749 [main] INFO  org.example.Main - Round 3: TIE. Player: rock, Computer: Rock. Score - Player: 0, Computer: 1
+2024-07-15 08:56:32,750 [main] INFO  org.example.Main - Game ended lasted only 3 rounds
+2024-07-15 08:56:32,750 [main] INFO  org.example.Main - Computer won the game 1 : 0
